@@ -1,8 +1,15 @@
 title: Cardano CLI Tutorial
-template: typescript
-size: small
 logo: https://demeter.run/assets/logos/typescript.png
 description: A tutorial that shows you how to use the Cardano CLI to execute operations directly against the Cardano node.
-repository: https://github.com/txpipe/cardano-cli-starter-kit
+repository: https://github.com/txpipe/cardano-cli-starter-kit.git
 features:
   - nodes
+settings:
+  template: typescript
+  size: small
+author:
+  name: TxPipe
+  logo: https://demeter.run/assets/logos/txpipe.svg
+social:
+  twitter_handle: txpipe_tools
+  discord: ZTHcHUy5HY

@@ -1,7 +1,14 @@
 title: Plutus Hello World
-template: plutus
-size: large
 logo: https://demeter.run/assets/logos/plutus.png
-description: A bare-bones example of a Plutus validator with the corresponding scripts to compile the sourcecode into UPLC bytecode ready to be submitted on-chain
+description: A bare-bones example of a Plutus validator with the corresponding scripts to compile the sourcecode into UPLC bytecode ready to be submitted on-chain.
 repository: https://github.com/txpipe/plutus-hello-world.git
 features:
+settings:
+  template: plutus
+  size: large
+author:
+  name: TxPipe
+  logo: https://demeter.run/assets/logos/txpipe.svg
+social:
+  twitter_handle: txpipe_tools
+  discord: ZTHcHUy5HY

@@ -1,7 +1,14 @@
 title: Pallas Block Download
-template: rust
-size: small
 logo: https://demeter.run/assets/logos/rust.png
 description: A very basic example of how to use Pallas rust library to connect to the Cardano Node running on Demeter's cluster by using low-level Ouroboros mini-protocols.
 repository: https://github.com/txpipe/pallas.git
 features:
+settings:
+  template: rust
+  size: small
+author:
+  name: TxPipe
+  logo: https://demeter.run/assets/logos/txpipe.svg
+social:
+  twitter_handle: txpipe_tools
+  discord: ZTHcHUy5HY
