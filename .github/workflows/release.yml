@@ -31,19 +31,9 @@ jobs:
     - run: npm ci
     - run: npm run build --if-present
     - run: npm run start
-    
-  # Create GitHub release with Rust build targets and release notes
-  github_release:
-
-    name: Create GitHub Release
-
-    needs: [build]
-
-    runs-on: ubuntu-latest
-    steps:
-    - uses: actions/checkout@v3
     - name: Build | Publish
       uses: softprops/action-gh-release@v1
       with:
         tag_name: latest
         files: /output/*
+    
