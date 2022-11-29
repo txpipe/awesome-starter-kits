@@ -1,0 +1,8 @@
+title: Ogmios Tx Monitoring
+template: typescript
+size: small
+logo: https://demeter.run/assets/logos/typescript.png
+description: A basic web app that shows how to leverage Ogmios to query the mempool of the Cardano Node instance running in Demeter's cluster using WebSockets and Ouroboros mini-protocols
+repository: 
+features:
+  - ogmios

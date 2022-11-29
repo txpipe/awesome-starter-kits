@@ -1,0 +1,8 @@
+title: Stake Pool Explorer
+template: typescript
+size: small
+logo: https://demeter.run/assets/logos/typescript.png
+description: A NodeJS website that provides a list of all the available Pools currently registered in Cardano. The data get queried from Demeter's cluster's DB-Sync instance using SQL.
+repository: https://github.com/txpipe/pool-index-starter-kit
+features:
+  - dbsync

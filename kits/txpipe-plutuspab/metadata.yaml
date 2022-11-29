@@ -1,0 +1,7 @@
+title: Plutus + PAB
+template: plutus
+size: large
+logo: https://demeter.run/assets/logos/plutus.png
+description: A clone of the official plutus starter kit by IOG fine-tuned to be run on Demeter workspace. It has a fully-functional example of a Plutus smart contract that uses the PAB to interact with it from off-chain code.
+repository: https://github.com/input-output-hk/plutus-starter.git
+features:

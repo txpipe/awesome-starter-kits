@@ -1,0 +1,7 @@
+title: Aiken Hello World
+template: typescript
+size: small
+logo: https://demeter.run/assets/logos/typescript.png
+description: An environment ready with a basic smart contract written in the new Aiken language that compiles directly into UPLC, ready to be submitted on-chain.
+repository:
+features:

@@ -1,0 +1,7 @@
+title: Haskell Hello World
+template: haskell
+size: large
+logo: https://demeter.run/assets/logos/haskell.png
+description: An empty Haskell project ready to code with all required dependencies already installed and all of the recommended VS Code extensions available by default.. It contains some very basic code with a 'hello world' example.
+repository: https://github.com/srid/haskell-template.gi
+features:

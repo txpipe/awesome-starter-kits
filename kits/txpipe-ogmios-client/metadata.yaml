@@ -1,0 +1,8 @@
+title: Ogmios Client Examples
+template: typescript
+size: small
+logo: https://demeter.run/assets/logos/typescript.png
+description: A NodeJS package that provides several examples of how to leverage Ogmios typescript client to execute local-state-queries, chain-sync and tx-monitoring operations against a node.
+repository: https://github.com/cardanosolutions/ogmios-client-starter-kit.git
+features:
+  - ogmios
