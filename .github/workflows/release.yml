@@ -31,9 +31,8 @@ jobs:
     - run: npm ci
     - run: npm run build --if-present
     - run: npm run start
-    - name: Build | Publish
       uses: softprops/action-gh-release@v1
       with:
         tag_name: latest
-        files: /output/*
+        files: output/*
     
