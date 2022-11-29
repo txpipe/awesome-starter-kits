@@ -7,7 +7,10 @@ const result = [];
 const OUTPUT_DIR = './output';
 const KITS_DIR = './kits';
 
-fs.del
+if (!fs.existsSync(OUTPUT_DIR)){
+  fs.mkdirSync(OUTPUT_DIR);
+}
+
 fs.readdir(
   path.join(KITS_DIR),
   (err, directories) => {
@@ -21,10 +24,6 @@ fs.readdir(
         
         result.push({key: d, ...metadata});
     });
-
-    if (!fs.existsSync(OUTPUT_DIR)){
-      fs.mkdirSync(OUTPUT_DIR);
-    }
 
     fs.writeFile(`${OUTPUT_DIR}/starter-kits.json`, JSON.stringify(result), function(err) {
         err ? console.log(err) : 'Process complete';
