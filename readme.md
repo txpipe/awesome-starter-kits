@@ -12,11 +12,18 @@
 <h4 align="center">A list of Starter-Kits to help get your Cardano dapp started in no time.</h4>
 
 <p align="center">
+  <a href="#introduction">Introduction</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#license">License</a>
 </p>
-
 <hr>
+
+## Introduction
+
+Starter kits are example code repositories that you can use for learning or as starting point for your own projects. 
+Each kit aims to solve a specific task and uses a particular tech stack. Once you find a kit that fits your needs, you can use it to create your own personal workspace in <a href="http://demeter.run" target="_blank">Demeter.run</a> based off that code template.
+
+This repository works as an index of available Starter-Kits which are available and listed in  <a href="http://demeter.run" target="_blank">Demeter.run</a> platform.
 
 ## How To Use
 
@@ -79,6 +86,23 @@ social:
   discord: ZTHcHUy5HY
 ```
 
+#### Fields
+
+| Name | required | Description |
+| --- | --- | --- |
+| title | required | the title to be displayed in the list of starter-kits |
+| logo | required | a logo to be displayed next to your starter kit title |
+| description | required | a short description indicating what is the scope of the starter kit |
+| repository | required | the link to the github repository to be used as a template. It needs to be publicly available. |
+| features | optional | a list of features associated to this starter kit. See the list of available features below. |
+| settings.template | required | the image template to be used when building the workspace for running your starter kit. See the list of available templates below. |
+| settings.size | required | the size of the workspace to be created when running your starter kit. See the list of available sizes below. |
+| author.name | required | the name of the author |
+| author.logo | optional | a logo for the author |
+| social.twitter_handle | optional | the twitter handle for the author |
+| social.discord | optional | the id of the author discord server |
+
+
 #### Features
 
 | Name | Description |
@@ -120,6 +144,11 @@ If you want to include additional information about how to use your starter kit,
 # Create a new markdown file
 $ touch readme.md
 ```
+
+## Making your Starter Kit available
+
+Once you have entered all the metadata for your starter kit you can open a pull-request to the main branch of this repository. 
+Once the pull-request is merged your starter kit will be automatically available and displayed in <a href="http://demeter.run" target="_blank">Demeter.run</a>
 
 
 ## Support
