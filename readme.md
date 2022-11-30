@@ -9,7 +9,7 @@
   <br>
 </h1>
 
-<h4 align="center">A list of Starter-Kits to help you get your Cardano dapp started in no time.</h4>
+<h4 align="center">A list of Starter-Kits to help get your Cardano dapp started in no time.</h4>
 
 <p align="center">
   <a href="#how-to-use">How To Use</a> •
@@ -79,7 +79,52 @@ social:
   discord: ZTHcHUy5HY
 ```
 
+#### Features
+
+| Name | Description |
+| --- | --- |
+| cardano-nodes | Fully-synced nodes ready to be used through any of the available ports |
+| cardano-dbsync | Provides a relational view of Cardano on-chain data using a PostgreSQL database |
+| cardano-ogmios | Provides a WebSocket API for clients to speak Ouroboros' mini-protocols via JSON/RPC. |
+| cardano-containers | Provides docker containers hosting on the web. |
+| cardano-hydra | Hydra head instances that can be shared among different peers in the cluster |
+| cardano-kuber | Haskell library and API server for composing balanced Cardano transactions. |
+| cardano-submitapi | Provides an HTTP endpoint to submit CBOR-encoded transactions onto the Node |
+| cardano-webhooks | Subscribe to events in the node |
+| cardano-workspaces | Provides custom cloud-based development environments based off on VSCode with access to a node |
+
+#### Templates
+
+| Name | Description |
+| --- | --- |
+| plutus | VSCode + Haskell + GHC + Cabal + Nix. The latest Cardano derivations from IOHK Nix cache. |
+| haskell | VSCode + Haskell + GHC. Good for starting from scratch with the Haskell language. |
+| typescript | VSCode + NodeJS + Typescript. Good for creating frontends using Berry-Pool's Lucid framework. |
+| rust | VSCode + Rust + Cargo. Good for creating projects using Pallas building blocks |
+| golang | VSCode + Golang. Good for creating projects using CloudStruct Ouroboros library. |
+| python | VSCode + Python 3.8. Good for creating projects using the PyCardano framework. |
+
+#### Sizes
+
+| Name | Description |
+| --- | --- |
+| small |  |
+| medium |  |
+| large |  |
+
+## Starter Kit Information 
+
+If you want to include additional information about how to use your starter kit, you can add an additional markdown file inside of your starter kit folder. 
+
+```bash
+# Create a new markdown file
+$ touch readme.md
+```
+
+
 ## Support
+
+If you have questions join our discord server
 
 [![Join our Discord server!](https://invidget.switchblade.xyz/ZTHcHUy5HY)](http://discord.gg/ZTHcHUy5HY)
 

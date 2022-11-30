@@ -26,6 +26,6 @@ jobs:
     - name: Build | Publish
       uses: softprops/action-gh-release@v1
       with:
-        tag_name: ${{github.run_number}}
+        tag_name: release-${{github.run_number}}
         files: output/*
     
