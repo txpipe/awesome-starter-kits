@@ -3,8 +3,6 @@ name: Generate & Build index
 on:
   push:
     branches: ["main"]
-  pull_request:
-    branches: ["main"]
   workflow_dispatch: {}
 
 jobs:
@@ -32,3 +30,4 @@ jobs:
         with:
           tag_name: release-${{github.run_number}}
           files: output/*
+          draft: true
