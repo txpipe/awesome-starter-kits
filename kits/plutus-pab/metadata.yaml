@@ -8,7 +8,8 @@ settings:
   size: large
 author:
   name: TxPipe
+  website: https://txpipe.io
   logo: https://demeter.run/assets/logos/txpipe.svg
 social:
-  twitter_handle: txpipe_tools
-  discord: ZTHcHUy5HY
+  twitter: https://twitter.com/txpipe_tools
+  discord: https://discord.gg/ZTHcHUy5HY

@@ -8,7 +8,8 @@ settings:
   size: small
 author:
   name: Mesh
+  website: https://mesh.martify.io/
   logo: https://mesh.martify.io/logo-mesh/white/logo-mesh-white-128x128.png
 social:
-  twitter_handle: meshsdk
-  discord: Z6AH9dahdH
+  twitter: https://twitter.com/meshsdk
+  discord: https://discord.gg/Z6AH9dahdH
