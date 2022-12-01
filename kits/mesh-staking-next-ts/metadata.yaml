@@ -1,7 +1,7 @@
-title: Starter Next.js TypeScript
+title: Stake Pool Portal Next.js TypeScript
 logo: https://mesh.martify.io/templates/nextjs.png
-description: Start a new project on Next.js. This starter template consists of a connect wallet button and wallet integration.
-repository: https://github.com/MartifyLabs/starter-next-ts-template.git
+description: Are you a stake pool operator? This starter template allows delegators to connect their wallet and stake with your pool.
+repository: https://github.com/MartifyLabs/staking-next-ts-template.git
 features:
 settings:
   template: typescript
