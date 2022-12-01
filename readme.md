@@ -9,7 +9,7 @@
   <br>
 </h1>
 
-<h4 align="center">A list of Starter-Kits to help get your Cardano dapp started in no time.</h4>
+<h4 align="center">A community-driven list of starter-kit code repositories that can be used with Demeter.run.</h4>
 
 <p align="center">
   <a href="#introduction">Introduction</a> •
@@ -88,53 +88,60 @@ social:
 
 #### Fields
 
-| Name | required | Description |
-| --- | --- | --- |
-| title | required | the title to be displayed in the list of starter-kits |
-| logo | required | a logo to be displayed next to your starter kit title |
-| description | required | a short description indicating what is the scope of the starter kit |
-| repository | required | the link to the github repository to be used as a template. It needs to be publicly available. |
-| features | optional | a list of features associated to this starter kit. See the list of available features below. |
-| settings.template | required | the image template to be used when building the workspace for running your starter kit. See the list of available templates below. |
-| settings.size | required | the size of the workspace to be created when running your starter kit. See the list of available sizes below. |
-| author.name | required | the name of the author |
-| author.logo | optional | a logo for the author |
-| social.twitter_handle | optional | the twitter handle for the author |
-| social.discord | optional | the id of the author discord server |
+| Name                | required | Description                                                                                                                        |
+| ------------------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| `title`             | required | the title to be displayed in the list of starter-kits                                                                              |
+| `logo`              | required | a logo to be displayed next to your starter kit title                                                                              |
+| `description`       | required | a short description indicating what is the scope of the starter kit                                                                |
+| `repository`        | required | the link to the github repository to be used as a template. It needs to be publicly available.                                     |
+| `features`          | optional | a list of features associated to this starter kit. See the list of available features below.                                       |
+| `settings.template` | required | the image template to be used when building the workspace for running your starter kit. See the list of available templates below. |
+| `settings.size`     | required | the size of the workspace to be created when running your starter kit. See the list of available sizes below.                      |
+| `author.name`       | required | the name of the author                                                                                                             |
+| `author.website`    | optional | the website of the author                                                                                                          |
+| `author.logo`       | optional | a logo for the author                                                                                                              |
+| `social.twitter`    | optional | the twitter handle for the author                                                                                                  |
+| `social.discord`    | optional | the id of the author discord server                                                                                                |
 
 
 #### Features
 
-| Name | Description |
-| --- | --- |
-| cardano-nodes | Fully-synced nodes ready to be used through any of the available ports |
-| cardano-dbsync | Provides a relational view of Cardano on-chain data using a PostgreSQL database |
-| cardano-ogmios | Provides a WebSocket API for clients to speak Ouroboros' mini-protocols via JSON/RPC. |
-| cardano-containers | Provides docker containers hosting on the web. |
-| cardano-hydra | Hydra head instances that can be shared among different peers in the cluster |
-| cardano-kuber | Haskell library and API server for composing balanced Cardano transactions. |
-| cardano-submitapi | Provides an HTTP endpoint to submit CBOR-encoded transactions onto the Node |
-| cardano-webhooks | Subscribe to events in the node |
-| cardano-workspaces | Provides custom cloud-based development environments based off on VSCode with access to a node |
+This is the list of currently available features in Demeter, use it as reference to tag your starter kit in the `features` field of the metadata file. Tagging your starter kit will allow us to recommend it in relevant sections of Demeter web console.
+
+| Name                 | Description                                                                                    |
+| -------------------- | ---------------------------------------------------------------------------------------------- |
+| `cardano-nodes`      | Fully-synced nodes ready to be used through any of the available ports                         |
+| `cardano-dbsync`     | Provides a relational view of Cardano on-chain data using a PostgreSQL database                |
+| `cardano-ogmios`     | Provides a WebSocket API for clients to speak Ouroboros' mini-protocols via JSON/RPC.          |
+| `cardano-containers` | Provides docker containers hosting on the web.                                                 |
+| `cardano-hydra`      | Hydra head instances that can be shared among different peers in the cluster                   |
+| `cardano-kuber`      | Haskell library and API server for composing balanced Cardano transactions.                    |
+| `cardano-submitapi`  | Provides an HTTP endpoint to submit CBOR-encoded transactions onto the Node                    |
+| `cardano-webhooks`   | Subscribe to events in the node                                                                |
+| `cardano-workspaces` | Provides custom cloud-based development environments based off on VSCode with access to a node |
 
 #### Templates
 
-| Name | Description |
-| --- | --- |
-| plutus | VSCode + Haskell + GHC + Cabal + Nix. The latest Cardano derivations from IOHK Nix cache. |
-| haskell | VSCode + Haskell + GHC. Good for starting from scratch with the Haskell language. |
-| typescript | VSCode + NodeJS + Typescript. Good for creating frontends using Lucid or Mesh framework |
-| rust | VSCode + Rust + Cargo. Good for creating projects using Pallas building blocks |
-| golang | VSCode + Golang. Good for creating projects using CloudStruct Ouroboros library. |
-| python | VSCode + Python 3.8. Good for creating projects using the PyCardano framework. |
+This is the list of currently available workspace templates in Demeter, use it as reference to fill the `settings.template` field in your metadata file. A template defines the pre-determined set of dependencies installed by default in the workspace running your starter kit. 
+
+| Name         | Description                                                                               |
+| ------------ | ----------------------------------------------------------------------------------------- |
+| `plutus`     | VSCode + Haskell + GHC + Cabal + Nix. The latest Cardano derivations from IOHK Nix cache. |
+| `haskell`    | VSCode + Haskell + GHC. Good for starting from scratch with the Haskell language.         |
+| `typescript` | VSCode + NodeJS + Typescript. Good for creating frontends using Lucid or Mesh framework   |
+| `rust`       | VSCode + Rust + Cargo. Good for creating projects using Pallas building blocks            |
+| `golang`     | VSCode + Golang. Good for creating projects using CloudStruct Ouroboros library.          |
+| `python`     | VSCode + Python 3.8. Good for creating projects using the PyCardano framework.            |
 
 #### Sizes
 
-| Name | Description |
-| --- | --- |
-| small |  |
-| medium |  |
-| large |  |
+This is the list of currently available workspace sizes in Demeter, use is as reference to fill the `settings.size` field in your metadata file. The size of the workspace defines the amount of resources (memory, cpu, disk) allocated to the instance. Unless you're aware that your starter kit has a high level of resource requirements, you should choose `small` as the prefered choice.
+
+| Name   |
+| ------ |
+| small  |
+| medium |
+| large  |
 
 ## Starter Kit Information 
 
@@ -159,4 +166,4 @@ If you have questions join our discord server
 
 ## License
 
-MIT
+[MIT](LICENSE)
