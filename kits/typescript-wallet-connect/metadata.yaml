@@ -1,7 +1,7 @@
 title: Browser Wallet Connect
 logo: https://demeter.run/assets/logos/typescript.png
 description: A single-page-app website built with typescript that shows how to connect your code to a CIP-compliant Cardano wallet running in the context of the client's browser.
-repository: https://github.com/txpipe/plutus-hello-world.git
+repository: https://github.com/txpipe/wallet-connect-starter-kit
 features:
 settings:
   template: typescript
