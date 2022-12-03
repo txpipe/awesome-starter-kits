@@ -20,7 +20,7 @@
 
 ## Introduction
 
-Starter kits are example code repositories that you can use for learning or as starting point for your own projects. 
+Starter kits are example code repositories that you can use for learning or as starting point for your own projects.
 Each kit aims to solve a specific task and uses a particular tech stack. Once you find a kit that fits your needs, you can use it to create your own personal workspace in <a href="http://demeter.run" target="_blank">Demeter.run</a> based off that code template.
 
 This repository works as an index of available Starter-Kits which are available and listed in  <a href="http://demeter.run" target="_blank">Demeter.run</a> platform.
@@ -50,15 +50,15 @@ $ git checkout -b starter-kit/my-awesome-starter-kit
 
 ```bash
 # Create a new directory
-$ mkdir my-awesome-starter-kit
+$ mkdir kits/my-awesome-starter-kit
 
 # Go into your new feature
-cd my-awesome-starter-kit
+cd kits/my-awesome-starter-kit
 ```
 
 **4.** Add your Starter Kit metadata
-   
-Now you can create the file with the metadata for listing your starter kit. Metadata files are defined in <a href="https://yaml.org/" target="_blank">YAML</a> format: 
+
+Now you can create the file with the metadata for listing your starter kit. Metadata files are defined in <a href="https://yaml.org/" target="_blank">YAML</a> format:
 
 ```bash
 # Create a new metadata file
@@ -68,8 +68,11 @@ $ touch metadata.yaml
 You can always copy the metadata file from another starter kit into your folder and update the information in case you don't want to generate the metadata file from scratch.
 
 Example format for your Starter Kit metadata:
+
+<p align="right"><strong>metadata.yaml</strong></p>
+
 ```yaml
-title: Name 
+title: Name
 logo: URL for your starter-kit logo
 description: A NodeJS package that provides several examples of how to leverage Ogmios typescript client to execute local-state-queries, chain-sync and tx-monitoring operations against a node.
 repository: https://github.com/cardanosolutions/ogmios-client-starter-kit.git
@@ -110,19 +113,19 @@ This is the list of currently available features in Demeter, use it as reference
 
 | Name                 | Description                                                                                    |
 | -------------------- | ---------------------------------------------------------------------------------------------- |
-| `cardano-nodes`      | Fully-synced nodes ready to be used through any of the available ports                         |
-| `cardano-dbsync`     | Provides a relational view of Cardano on-chain data using a PostgreSQL database                |
-| `cardano-ogmios`     | Provides a WebSocket API for clients to speak Ouroboros' mini-protocols via JSON/RPC.          |
-| `cardano-containers` | Provides docker containers hosting on the web.                                                 |
-| `cardano-hydra`      | Hydra head instances that can be shared among different peers in the cluster                   |
-| `cardano-kuber`      | Haskell library and API server for composing balanced Cardano transactions.                    |
-| `cardano-submitapi`  | Provides an HTTP endpoint to submit CBOR-encoded transactions onto the Node                    |
-| `cardano-webhooks`   | Subscribe to events in the node                                                                |
-| `cardano-workspaces` | Provides custom cloud-based development environments based off on VSCode with access to a node |
+| `nodes`              | Fully-synced nodes ready to be used through any of the available ports                         |
+| `dbsync`             | Provides a relational view of Cardano on-chain data using a PostgreSQL database                |
+| `ogmios`             | Provides a WebSocket API for clients to speak Ouroboros' mini-protocols via JSON/RPC.          |
+| `containers`         | Provides docker containers hosting on the web.                                                 |
+| `hydra`              | Hydra head instances that can be shared among different peers in the cluster                   |
+| `kuber`              | Haskell library and API server for composing balanced Cardano transactions.                    |
+| `submitapi`          | Provides an HTTP endpoint to submit CBOR-encoded transactions onto the Node                    |
+| `webhooks`           | Subscribe to events in the node                                                                |
+| `workspaces`         | Provides custom cloud-based development environments based off on VSCode with access to a node |
 
 #### Templates
 
-This is the list of currently available workspace templates in Demeter, use it as reference to fill the `settings.template` field in your metadata file. A template defines the pre-determined set of dependencies installed by default in the workspace running your starter kit. 
+This is the list of currently available workspace templates in Demeter, use it as reference to fill the `settings.template` field in your metadata file. A template defines the pre-determined set of dependencies installed by default in the workspace running your starter kit.
 
 | Name         | Description                                                                               |
 | ------------ | ----------------------------------------------------------------------------------------- |
@@ -143,9 +146,9 @@ This is the list of currently available workspace sizes in Demeter, use is as re
 | medium |
 | large  |
 
-## Starter Kit Information 
+## Starter Kit Information
 
-If you want to include additional information about how to use your starter kit, you can add an additional markdown file inside of your starter kit folder. 
+If you want to include additional information about how to use your starter kit, you can add an additional markdown file inside of your starter kit folder.
 
 ```bash
 # Create a new markdown file
@@ -154,9 +157,8 @@ $ touch readme.md
 
 ## Making your Starter Kit available
 
-Once you have entered all the metadata for your starter kit you can open a pull-request to the main branch of this repository. 
+Once you have entered all the metadata for your starter kit you can open a pull-request to the main branch of this repository.
 Once the pull-request is merged your starter kit will be automatically available and displayed in <a href="http://demeter.run" target="_blank">Demeter.run</a>
-
 
 ## Support
 
