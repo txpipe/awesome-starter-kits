@@ -1,0 +1,16 @@
+title: Ogmios TypeScript Client
+logo: https://raw.githubusercontent.com/CardanoSolutions/ogmios/master/server/static/assets/logo.png
+description: A Demeter starter kit that shows how to use Ogmios' Typescript client.
+repository: https://github.com/cardanosolutions/ogmios-ts-client-starter-kit.git
+features:
+  - ogmios
+settings:
+  template: typescript
+  size: small
+author:
+  name: TxPipe + CardanoSolutions
+  logo: https://demeter.run/assets/logos/txpipe.svg
+  website: https://txpipe.io
+social:
+  twitter_handle: _KtorZ_
+  discord: ZeyDn65t5v
