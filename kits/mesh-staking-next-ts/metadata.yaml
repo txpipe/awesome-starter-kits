@@ -1,14 +1,14 @@
 title: Stake Pool Portal Next.js TypeScript
-logo: https://mesh.martify.io/templates/nextjs.png
+logo: https://meshjs.dev/templates/nextjs.png
 description: Are you a stake pool operator? This starter template allows delegators to connect their wallet and stake with your pool.
-repository: https://github.com/MartifyLabs/staking-next-ts-template.git
+repository: https://github.com/MeshJS/staking-next-ts-template.git
 features:
 settings:
   template: typescript
   size: small
 author:
   name: Mesh
-  logo: https://mesh.martify.io/logo-mesh/white/logo-mesh-white-128x128.png
+  logo: https://meshjs.dev/logo-mesh/white/logo-mesh-white-128x128.png
 social:
   twitter_handle: meshsdk
   discord: Z6AH9dahdH
