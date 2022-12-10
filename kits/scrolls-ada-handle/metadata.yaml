@@ -1,0 +1,16 @@
+title: ADA Handle Starter Kit
+logo: https://demeter.run/assets/logos/typescript.png
+description: A small Remix.run application which shows how to use Scrolls for showing the address associated to an ADA handle.
+repository: https://github.com/txpipe/ada-handle-scrolls-starter-kit
+features:
+  - nodes
+settings:
+  template: typescript
+  size: small
+author:
+  name: TxPipe
+  website: https://txpipe.io
+  logo: https://demeter.run/assets/logos/txpipe.svg
+social:
+  twitter: https://twitter.com/txpipe_tools
+  discord: https://discord.gg/ZTHcHUy5HY
