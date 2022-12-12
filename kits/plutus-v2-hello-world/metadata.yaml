@@ -1,6 +1,6 @@
 title: PlutusV2 Hello World
 logo: https://demeter.run/assets/logos/plutus.png
-description: This is a bare bones PlutusV2 smart-contract template. The goal is to provide the minimum expression of a PlutusV2 project to be used as starting point to build more complex contracts. Demostrating one of the new features in PlutusV2!
+description: This is a bare bones PlutusV2 smart-contract template. The goal is to provide the minimum expression of a PlutusV2 project to be used as starting point to build more complex contracts. Demostrating one of the new features of PlutusV2!
 repository: https://github.com/ADAPhilippines/plutus-v2-starter-kit
 features:
 settings:
