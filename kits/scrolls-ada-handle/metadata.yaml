@@ -3,7 +3,6 @@ logo: https://demeter.run/assets/logos/typescript.png
 description: A small Remix.run application which shows how to use Scrolls for showing the address associated to an ADA handle.
 repository: https://github.com/txpipe/ada-handle-scrolls-starter-kit
 features:
-  - nodes
 settings:
   template: typescript
   size: small

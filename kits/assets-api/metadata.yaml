@@ -3,7 +3,7 @@ logo: https://demeter.run/assets/logos/typescript.png
 description: This starter kit shows how you can start building a simple REST API to query assets data from DB-sync.
 repository: https://github.com/txpipe/assets-api-starter-kit
 features:
-  - nodes
+  - dbsync
 settings:
   template: typescript
   size: small
