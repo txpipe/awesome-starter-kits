@@ -1,0 +1,16 @@
+title: PyCardano Starter Kit
+logo: https://demeter.run/assets/logos/python.png
+description: A simple tutorial showing how to use the PyCardano library together with Ogmios for generating addresses, querying UTXOs and submitting transactions.
+repository: https://github.com/txpipe/pycardano-starter-kit
+features:
+  - ogmios
+settings:
+  template: python
+  size: small
+author:
+  name: TxPipe
+  website: https://txpipe.io
+  logo: https://demeter.run/assets/logos/txpipe.svg
+social:
+  twitter: https://twitter.com/txpipe_tools
+  discord: https://discord.gg/ZTHcHUy5HY
