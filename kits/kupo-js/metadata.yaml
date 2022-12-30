@@ -1,0 +1,15 @@
+title: Kupo Node.js Examples
+logo: https://raw.githubusercontent.com/CardanoSolutions/kupo/master/docs/kupo.png
+description: Example setups using Kupo, in JavaScript/Node.js
+repository: https://github.com/cardanosolutions/kupo-js-starter-kit.git
+features:
+  - kupo
+settings:
+  template: typescript
+  size: small
+author:
+  name: CardanoSolutions
+  website: https://github.com/CardanoSolutions
+social:
+  twitter_handle: _KtorZ_
+  discord: ZeyDn65t5v
