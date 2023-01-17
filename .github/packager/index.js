@@ -16,6 +16,9 @@ fs.readdir(
   (err, directories) => {
     directories.forEach((d) => {
       const metadata = yaml.load(fs.readFileSync(`${KITS_DIR}/${d}/metadata.yaml`, 'utf8'));
+
+      if (metadata.status === 'disabled') return;
+      
       try {
         fs.copyFileSync(`${KITS_DIR}/${d}/readme.md`, `${OUTPUT_DIR}/${d}.md`);
       } catch (err) {
