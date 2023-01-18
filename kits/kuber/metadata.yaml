@@ -1,0 +1,16 @@
+title: Kuber Starter Kit
+logo: https://demeter.run/assets/logos/typescript.png
+description: This repo provides a NodeJS package with examples of how to balance transactions using Kuber.
+repository: https://github.com/txpipe/kuber-starter-kit
+features:
+  - kuber
+settings:
+  template: typescript
+  size: small
+author:
+  name: TxPipe
+  website: https://txpipe.io
+  logo: https://demeter.run/assets/logos/txpipe.svg
+social:
+  twitter: https://twitter.com/txpipe_tools
+  discord: https://discord.gg/ZTHcHUy5HY
