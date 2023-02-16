@@ -3,6 +3,7 @@ logo: https://demeter.run/assets/logos/plutus.png
 description: This kit contains everything needed to complete the homework and follow the lectures of the fourth iteration of the Plutus Pioneer Program.
 repository: https://github.com/input-output-hk/plutus-pioneer-program
 features:
+  - workspaces 
   - nodes 
   - kuber
 settings:
@@ -13,5 +14,5 @@ author:
   website: https://iohk.com
   logo: https://ucarecdn.com/63704cb9-eca6-4448-9f90-050e485eeb71/iohksymbolinverted.png
 social:
-  twitter: https://twitter.com/InputOutputHK
-  discord: https://discord.gg/inputoutput
+  twitter: InputOutputHK
+  discord: inputoutput
