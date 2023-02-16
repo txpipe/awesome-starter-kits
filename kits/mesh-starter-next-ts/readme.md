@@ -2,6 +2,8 @@
 
 Start a new project on Next.js. This starter template consists of a connect wallet button and wallet integration.
 
+[View Demo](https://starter-template.meshjs.dev/)
+
 ## Learn More
 
 ### [React components and hooks](https://meshjs.dev/react)

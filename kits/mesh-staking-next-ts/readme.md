@@ -2,6 +2,8 @@
 
 Are you a stake pool operator? This starter template allows delegators to connect their wallet and stake with your pool.
 
+[View Demo](https://staking-template.meshjs.dev/)
+
 ## Learn More
 
 ### [React components and hooks](https://meshjs.dev/react)

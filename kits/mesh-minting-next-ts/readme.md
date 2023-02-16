@@ -2,6 +2,8 @@
 
 Sell native tokens with multi-sig minting; where the backend server will build the transaction, and the user signs the transaction on the frontend.
 
+[View Demo](https://minting-template.meshjs.dev/)
+
 ## Learn More
 
 ### [React components and hooks](https://meshjs.dev/react)

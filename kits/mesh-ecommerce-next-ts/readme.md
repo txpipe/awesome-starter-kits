@@ -1,8 +1,8 @@
-# Sign in with Wallet Next.js TypeScript
+# Ecommerce Next.js TypeScript
 
-Cryptographically prove the ownership of a wallet by signing a piece of data using data sign [[Read more](https://meshjs.dev/guides/prove-wallet-ownership)]
+A starter template for Ecommerce store, where customers can pay with Cardano stable coins such as DJED, a receipt will be minted to the customer's wallet and you will fulfil their order. 
 
-[View Demo](https://signin-template.meshjs.dev/)
+[View Demo](https://ecommerce-template.meshjs.dev/)
 
 ## Learn More
 
