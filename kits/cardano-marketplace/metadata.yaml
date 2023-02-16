@@ -1,0 +1,15 @@
+title: Cardano Marketplace
+logo: https://demeter.run/assets/logos/typescript.png
+description: A simple Cardano Marketplace facilitating NFT buy and sale.
+repository: https://github.com/dQuadrant/cardano-marketplace
+features:
+settings:
+  template: plutus
+  size: medium
+author:
+  name: dQuadrant
+  website: https://dquadrant.com
+  logo: https://avatars.githubusercontent.com/u/93607520?s=200&v=4
+social:
+  twitter: 
+  discord: 
