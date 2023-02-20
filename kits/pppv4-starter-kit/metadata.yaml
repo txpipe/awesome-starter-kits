@@ -8,7 +8,7 @@ features:
   - kuber
 settings:
   template: plutus
-  size: large
+  size: small
 author:
   name: Input Output Global
   website: https://iohk.com
