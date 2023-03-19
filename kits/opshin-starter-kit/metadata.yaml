@@ -1,0 +1,15 @@
+title: OpShin Starter Kit
+logo: https://raw.githubusercontent.com/OpShin/opshin/master/opshin.png
+description: A starter kit for python based smart contracts with PyCardano and OpShin
+repository: https://github.com/opshin/opshin-starter-kit.git
+features:
+  - ogmios
+settings:
+  template: python
+  size: small
+author:
+  name: OpShin
+  logo: https://avatars.githubusercontent.com/u/102762047?s=200&v=4
+social:
+  twitter_handle: opshindev
+  discord: umR3A2g4uw
