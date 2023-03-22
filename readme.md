@@ -134,7 +134,7 @@ This is the list of currently available workspace templates in Demeter, use it a
 | `typescript` | VSCode + NodeJS + Typescript. Good for creating frontends using Lucid or Mesh framework   |
 | `rust`       | VSCode + Rust + Cargo. Good for creating projects using Pallas building blocks            |
 | `golang`     | VSCode + Golang. Good for creating projects using CloudStruct Ouroboros library.          |
-| `python`     | VSCode + Python 3.8. Good for creating projects using the PyCardano framework.            |
+| `python`     | VSCode + Python 3.10. Good for creating projects using the PyCardano framework.            |
 
 #### Sizes
 
