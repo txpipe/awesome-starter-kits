@@ -1,0 +1,15 @@
+title: Cardano Starter Kit
+logo: https://avatars.githubusercontent.com/u/121058009?s=200&v=4
+description: A starter kit for building cardano web3 applications with React, NextJS, and TypeScript using use-cardano and Lucid for interacting with the blockchain.
+repository: https://github.com/use-cardano/cardano-starter-kit
+features:
+  - containers
+  - workspaces
+settings:
+  template: typescript
+  size: small
+author:
+  name: AlanSmithee
+  logo: https://avatars.githubusercontent.com/u/11805103?v=4
+social:
+  twitter_handle: GGAlanSmithee
