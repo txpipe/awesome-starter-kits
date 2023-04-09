@@ -1,0 +1,16 @@
+title: Adalicious
+logo: https://demeter.run/assets/logos/typescript.png
+description: This starter kit shows how you can implement your own Payment Forms for charging your products in ADA. Easy to customize with your Company Logo and Name. Easy to deploy in Demeter
+repository: https://github.com/txpipe/adalicious-starter-kit
+features:
+  - webhooks
+settings:
+  template: typescript
+  size: small
+author:
+  name: TxPipe
+  website: https://txpipe.io
+  logo: https://demeter.run/assets/logos/txpipe.svg
+social:
+  twitter: https://twitter.com/txpipe_tools
+  discord: https://discord.gg/ZTHcHUy5HY
