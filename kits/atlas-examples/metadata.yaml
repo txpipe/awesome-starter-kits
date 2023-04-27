@@ -1,0 +1,15 @@
+title: Atlas Starter Kit
+logo: https://demeter.run/assets/logos/haskell.png
+description: A starter kit containing examples illustrating various features of Atlas framework which is a haskell tooling to write off-chain code for on-chain smart contracts.
+repository: https://github.com/geniusyield/atlas-examples.git
+features:
+settings:
+  template: plutus
+  size: small
+author:
+  name: Genius Yield
+  website: https://www.geniusyield.co
+  logo: https://storage.googleapis.com/geniusyield-atlas/logos/gy-green.svg
+social:
+  twitter: GeniusyieldO
+  discord: D8HNJ3zhwH
