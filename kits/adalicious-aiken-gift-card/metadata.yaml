@@ -1,5 +1,5 @@
 title: Adalicious - Aiken Gift Card
-logo: https://github.com/aiken-lang/site/blob/45035cd322205cab099fbf05bf1c3576ba07e571/public/icon.png
+logo: https://i.ibb.co/qJLRL4H/aiken.png
 description: This is an example of a gift card. With these contracts you can lock anything and have it be unlockable only with a simultaneously minted NFT. This minted NFT holds the power to unlock the assets and is considered the gift card.
 repository: https://github.com/adalicious/aiken-gift-card
 features:
@@ -9,7 +9,7 @@ settings:
 author:
   name: Adalicious
   website: https://txpipe.io
-  logo: https://github.com/adalicious/payment-link/blob/main/public/adalicious.png
+  logo: https://i.ibb.co/8jB8mYc/adalicious-png.png
 social:
   twitter: https://twitter.com/txpipe_tools
   discord: https://discord.gg/ZTHcHUy5HY
