@@ -1,0 +1,16 @@
+title: Marlowe Tutorial
+logo: https://demeter.run/assets/logos/jupyter.png
+description: This tutorial contains 6 lessons for interacting with Marlowe Smart Contracts.
+repository: https://github.com/input-output-hk/marlowe-starter-kit
+features:
+  - marlowe
+settings:
+  template: haskell
+  size: small
+author:
+  name: IOHK
+  website: https://iohk.io/
+  logo: https://demeter.run/assets/logos/iohk-symbol-inverted.png
+social:
+  twitter: https://twitter.com/IOHKMedia
+  
