@@ -1,5 +1,5 @@
 title: Marlowe
-logo: https://demeter.run/assets/logos/jupyter-2.png
+logo: https://demeter.run/assets/logos/jupyter.png
 description: This repository contains lessons for using Marlowe via REST and at the command line. It is meant to be used with demeter.run or with a Docker deployment of Marlowe Runtime..
 repository: https://github.com/input-output-hk/marlowe-starter-kit
 features:
