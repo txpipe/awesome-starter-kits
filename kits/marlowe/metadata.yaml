@@ -1,6 +1,6 @@
 title: Marlowe Tutorial
 logo: https://demeter.run/assets/logos/jupyter.png
-description: This repository contains lessons for using Marlowe via REST and at the command line. It is meant to be used with demeter.run or with a Docker deployment of Marlowe Runtime..
+description: This Starter Kit containts 6 lessons for interacting wtih Marlowe Smart Contracts.
 repository: https://github.com/input-output-hk/marlowe-starter-kit
 features:
   - marlowe
