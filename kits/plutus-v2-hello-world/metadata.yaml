@@ -9,7 +9,6 @@ settings:
 author:
   name: SAIB Inc.
   website: https://github.com/ADAPhilippines
-  logo: https://conclv.io/SaibLogo.svg
 social:
-  twitter: https://twitter.com/saibdev
-  discord: https://discord.gg/q5efeTbxx8
+  twitter: saibdev
+  discord: q5efeTbxx8
