@@ -85,7 +85,7 @@ author:
   name: TxPipe
   logo: https://demeter.run/assets/logos/txpipe.svg
 social:
-  twitter_handle: txpipe_tools
+  twitter: txpipe_tools
   discord: ZTHcHUy5HY
 ```
 
@@ -131,14 +131,14 @@ This is the list of currently available workspace templates in Demeter, use it a
 | ------------ | ----------------------------------------------------------------------------------------- |
 | `plutus`     | VSCode + Haskell + GHC + Cabal + Nix. The latest Cardano derivations from IOHK Nix cache. |
 | `haskell`    | VSCode + Haskell + GHC. Good for starting from scratch with the Haskell language.         |
-| `typescript` | VSCode + NodeJS + Typescript. Good for creating frontends using Lucid or Mesh framework   |
+| `typescript` | VSCode + NodeJS + Typescript. Good for creating front-ends using Lucid or Mesh framework   |
 | `rust`       | VSCode + Rust + Cargo. Good for creating projects using Pallas building blocks            |
 | `golang`     | VSCode + Golang. Good for creating projects using CloudStruct Ouroboros library.          |
 | `python`     | VSCode + Python 3.10. Good for creating projects using the PyCardano framework.            |
 
 #### Sizes
 
-This is the list of currently available workspace sizes in Demeter, use is as reference to fill the `settings.size` field in your metadata file. The size of the workspace defines the amount of resources (memory, cpu, disk) allocated to the instance. Unless you're aware that your starter kit has a high level of resource requirements, you should choose `small` as the prefered choice.
+This is the list of currently available workspace sizes in Demeter, use is as reference to fill the `settings.size` field in your metadata file. The size of the workspace defines the amount of resources (memory, cpu, disk) allocated to the instance. Unless you're aware that your starter kit has a high level of resource requirements, you should choose `small` as the preferred choice.
 
 | Name   |
 | ------ |
