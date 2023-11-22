@@ -1,0 +1,15 @@
+title: Mafoc
+logo: https://captainhaskell.ee/mafoc/img/mafoc-logo.svg
+description: The Cardano Indexer Framework with many predefined ones included.
+repository: https://github.com/eyeinsky/mafoc/
+features:
+  - containers
+settings:
+  template: plutus
+  size: small
+author:
+  name: Captain Haskell
+  website: https://captainhaskell.ee/mafoc/
+social:
+  twitter: Mafoc_Cardano
+  discord: bgUE4csP
