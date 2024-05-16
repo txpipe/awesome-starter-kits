@@ -1,0 +1,14 @@
+title: PPBL 2024 Plutus Examples
+logo: https://demeter.run/assets/logos/plutus.png
+description: A set of example validators used in the Plutus PBL 2024 course from Gimbalabs. Can be used as a starter template for PlutusV2 projects.
+repository: https://github.com/gimbalabs/ppbl2024-plutus-examples.git
+features:
+settings:
+  template: plutus
+  size: large
+author:
+  name: Gimbalabs
+  logo: https://gimbalabs.com/g.png
+social:
+  twitter: gimbalabs
+  discord: jamesdunseith
