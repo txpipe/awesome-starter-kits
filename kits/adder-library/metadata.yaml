@@ -1,0 +1,16 @@
+title: Adder library
+logo: https://blinklabs.io/media/adder-illustration.png
+description: A tutorial that shows you how to use Adder as a Go library to index data from a Cardano Node.
+repository: https://github.com/blinklabs-io/adder-library-starter-kit.git
+features:
+  - nodes
+settings:
+  template: golang
+  size: small
+author:
+  name: Blink Labs
+  website: https://blinklabs.io
+  logo: https://blinklabs.io/media/blink-logo.png
+social:
+  twitter: blinklabs_io
+  discord: 5fPRZnX4qW
