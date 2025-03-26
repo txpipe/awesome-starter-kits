@@ -2,6 +2,7 @@ title: Stake Pool Portal Next.js TypeScript
 logo: https://meshjs.dev/templates/nextjs.png
 description: Are you a stake pool operator? This starter template allows delegators to connect their wallet and stake with your pool.
 repository: https://github.com/MeshJS/staking-next-ts-template.git
+type: workspace
 features:
 settings:
   template: typescript

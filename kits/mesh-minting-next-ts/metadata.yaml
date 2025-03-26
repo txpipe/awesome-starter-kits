@@ -2,6 +2,7 @@ title: Multi-sig Minting Next.js TypeScript
 logo: https://meshjs.dev/templates/nextjs.png
 description: Sell native tokens with multi-sig minting; where the backend server will build the transaction, and the user signs the transaction on the frontend.
 repository: https://github.com/MeshJS/minting-next-ts-template.git
+type: workspace
 features:
 settings:
   template: typescript

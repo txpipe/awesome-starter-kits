@@ -2,6 +2,7 @@ title: Naumachia Smart Contract Template
 logo: https://demeter.run/assets/logos/rust.png
 description: Scaffolding for a Naumachia Smart Contract with build script and Aiken script interface.
 repository: https://github.com/free-honey/naumachia-project-template.git
+type: workspace
 features:
 settings:
   template: rust
@@ -10,4 +11,4 @@ author:
   name: Free Honey
   logo: https://avatars.githubusercontent.com/u/127452077?s=200&v=4
 social:
-  discord: ZTHcHUy5HY
+  discord: eVc6HJrYmP

@@ -2,6 +2,7 @@ title: Plutus Pioneer Program 4
 logo: https://demeter.run/assets/logos/plutus.png
 description: This kit contains everything needed to complete the homework and follow the lectures of the fourth iteration of the Plutus Pioneer Program.
 repository: https://github.com/input-output-hk/plutus-pioneer-program
+type: workspace
 features:
   - workspaces 
   - nodes 

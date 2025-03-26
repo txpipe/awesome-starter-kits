@@ -2,6 +2,7 @@ title: Ecommerce Next.js TypeScript
 logo: https://meshjs.dev/templates/nextjs.png
 description: A starter template for ecommerce stores, where customers can pay with Cardano stable coins such as DJED, a receipt will be minted to the customer's wallet and you will fulfil their order.
 repository: https://github.com/MeshJS/ecommerce-next-ts-template.git
+type: workspace
 features:
 settings:
   template: typescript

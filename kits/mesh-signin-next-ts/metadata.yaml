@@ -2,6 +2,7 @@ title: Wallet Sign In Next.js
 logo: https://meshjs.dev/templates/nextjs.png
 description: Use this template to build a dApp that sign in with Cardano wallet, prove the ownership of a wallet by signing a piece of data using data sign.
 repository: https://github.com/MeshJS/signin-next-ts-template.git
+type: workspace
 features:
 settings:
   template: typescript

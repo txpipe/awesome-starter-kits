@@ -2,6 +2,7 @@ title: Oura Webhooks Starter Kit
 logo: https://demeter.run/assets/logos/typescript.png
 description: A simple tutorial showing how to use Oura together with a Webhook sink for publishing a message to a Discord server in real-time whenever a delegation is processed for a specific Pool hash..
 repository: https://github.com/txpipe/oura-webhooks-starter-kit
+type: workspace
 features:
   - oura
   - webhooks
@@ -14,4 +15,4 @@ author:
   logo: https://demeter.run/assets/logos/txpipe.svg
 social:
   twitter: txpipe_tools
-  discord: ZTHcHUy5HY
+  discord: eVc6HJrYmP

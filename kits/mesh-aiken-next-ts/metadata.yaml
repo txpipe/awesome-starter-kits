@@ -2,6 +2,7 @@ title: Aiken Hello World Next.js
 logo: https://meshjs.dev/templates/nextjs.png
 description: Start an Aiken project and deploy a web frontend with wallet and transaction builder.
 repository: https://github.com/MeshJS/aiken-next-ts-template
+type: workspace
 features:
 settings:
   template: typescript

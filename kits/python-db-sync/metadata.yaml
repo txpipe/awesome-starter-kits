@@ -2,6 +2,7 @@ title: Python DB-Sync Starter Kit
 logo: https://demeter.run/assets/logos/python.png
 description: A set of python scripts that query the DB-Sync instance running on Demeter's cluster to generate different data analysis outputs from the ledger history.
 repository: https://github.com/txpipe/python-dbsync-starter-kit
+type: workspace
 features:
   - dbsync
 settings:
@@ -13,4 +14,4 @@ author:
   logo: https://demeter.run/assets/logos/txpipe.svg
 social:
   twitter: txpipe_tools
-  discord: ZTHcHUy5HY
+  discord: eVc6HJrYmP

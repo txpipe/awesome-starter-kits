@@ -2,6 +2,7 @@ title: Mafoc
 logo: https://captainhaskell.ee/mafoc/img/mafoc-logo.svg
 description: The Cardano Indexer Framework with many predefined ones included.
 repository: https://github.com/eyeinsky/mafoc/
+type: workspace
 features:
   - containers
 settings:

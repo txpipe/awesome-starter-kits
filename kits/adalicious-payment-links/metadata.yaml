@@ -2,6 +2,7 @@ title: ADA Payment Links
 logo: https://demeter.run/assets/logos/typescript.png
 description: This starter kit shows how you can implement your own Payment Forms for charging your products in ADA. Easy to customize with your Company Logo and Name. Easy to deploy in Demeter
 repository: https://github.com/adalicious/payment-link
+type: workspace
 features:
   - webhooks
 settings:
@@ -13,4 +14,4 @@ author:
   logo: https://i.ibb.co/8jB8mYc/adalicious-png.png
 social:
   twitter: txpipe_tools
-  discord: ZTHcHUy5HY
+  discord: eVc6HJrYmP

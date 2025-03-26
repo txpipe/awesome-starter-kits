@@ -2,6 +2,7 @@ title: OpShin Starter Kit
 logo: https://demeter.run/assets/logos/python.png
 description: A starter kit for python based smart contracts with PyCardano and OpShin
 repository: https://github.com/opshin/opshin-starter-kit.git
+type: workspace
 features:
   - ogmios
 settings:

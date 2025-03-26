@@ -2,6 +2,7 @@ title: Java Starter Kit
 logo: https://demeter.run/assets/logos/java.png
 description: A simple Java 17 project demonstrating simple CLI wallet with transaction sending.
 repository: https://github.com/Cardano-Fans/demeter-java-starter-kit
+type: workspace
 features:
 settings:
   template: java

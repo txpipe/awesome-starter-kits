@@ -2,6 +2,7 @@ title: Wallet Connect Starter Kit
 logo: https://drive.google.com/uc?id=17gzNu9CfeoLPZEw3A8sxzbOApD1coAVU
 description: This starter kit shows how you can connect to a Cardano Wallet from a Remix.run application
 repository: https://github.com/txpipe/remix-wallet-connect-starter-kit
+type: workspace
 features:
 settings:
   template: typescript
@@ -12,4 +13,4 @@ author:
   logo: https://demeter.run/assets/logos/txpipe.svg
 social:
   twitter: txpipe_tools
-  discord: ZTHcHUy5HY
+  discord: eVc6HJrYmP

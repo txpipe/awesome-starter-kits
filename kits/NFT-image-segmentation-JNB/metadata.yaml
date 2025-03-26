@@ -2,6 +2,7 @@ title: NFT Image Segmentation with Jupyter Notebook
 logo: https://console.us1.demeter.run/jupyter-2.png
 description: A jupyter notebook for configuring the Image Segmentation service from the SingularityNET AI Marketplace, downloading an NFT image and applying the service to it.
 repository: https://github.com/txpipe/NFT-image-segmentation-JNB
+type: workspace
 features:
   - workspaces
 settings:
@@ -12,4 +13,4 @@ author:
   logo: https://demeter.run/assets/logos/txpipe.svg
 social:
   twitter: txpipe_tools
-  discord: ZTHcHUy5HY
+  discord: eVc6HJrYmP

@@ -2,6 +2,7 @@ title: Marlowe Tutorial
 logo: https://demeter.run/assets/logos/jupyter.png
 description: This tutorial contains 6 lessons for interacting with Marlowe Smart Contracts.
 repository: https://github.com/input-output-hk/marlowe-starter-kit
+type: workspace
 features:
   - marlowe
 settings:
