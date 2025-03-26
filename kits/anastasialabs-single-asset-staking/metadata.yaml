@@ -2,6 +2,7 @@ title: "[Production Grade Dapps] Single Asset Staking"
 logo: https://avatars.githubusercontent.com/u/125997902?s=200&v=4
 description: Single Asset Staking contracts facilitate collective staking of digital assets and distributing rewards among participants.
 repository: https://github.com/Anastasia-Labs/single-asset-staking
+type: workspace
 features:
   - workspaces
 settings:

@@ -2,6 +2,7 @@ title: "[Production Grade Dapps] Linear Vesting"
 logo: https://avatars.githubusercontent.com/u/125997902?s=200&v=4
 description: Linear Vesting contract aims at providing a reliable mechanism for releasing Cardano Native Tokens gradually over a specified timeframe, with customization options to fit different requirements.
 repository: https://github.com/Anastasia-Labs/linear-vesting
+type: workspace
 features:
   - workspaces
 settings:

@@ -2,6 +2,7 @@ title: Marketplace Next.js TypeScript
 logo: https://meshjs.dev/templates/nextjs.png
 description: A starter template for marketplace smart contract allows users to buy and sell NFTs. A seller list an NFT for sales by specifying a certain price, and anyone can buy it by paying the demanded price.
 repository: https://github.com/MeshJS/marketplace-next-ts-template.git
+type: workspace
 features:
 settings:
   template: typescript

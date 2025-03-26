@@ -2,6 +2,7 @@ title: "[Production Grade Dapps] Bridge Template"
 logo: https://avatars.githubusercontent.com/u/125997902?s=200&v=4
 description: In the rapidly evolving world of blockchain technology, the need for seamless communication and interoperability between disparate blockchain networks has never been more critical. The Bridge Template serves as a pivotal solution in this domain, designed to bridge the gap between different blockchain ecosystems. This innovative template enables the efficient and secure transfer of assets and data across various networks, breaking down the barriers that have traditionally hindered interoperability in the blockchain space.
 repository: https://github.com/Anastasia-Labs/bridge-template
+type: workspace
 features:
   - workspaces
 settings:

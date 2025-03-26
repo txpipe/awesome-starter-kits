@@ -2,6 +2,7 @@ title: Java Offchain PlutusV2 Starter Kit
 logo: https://demeter.run/assets/logos/java.png
 description: A simple Java 17 project demonstrating PlutusV2 contract invocation using simple CLI wallet.
 repository: https://github.com/Cardano-Fans/demeter-java-plutus-v2-starter-kit 
+type: workspace
 features:
 settings:
   template: java

@@ -2,6 +2,7 @@ title: plu-ts Next.js TypeScript
 logo: https://meshjs.dev/templates/nextjs.png
 description: Write smart contracts on Cardano with plu-ts, execute and deploy your app with Mesh.
 repository: https://github.com/MeshJS/pluts-next-ts-template.git
+type: workspace
 features:
 settings:
   template: typescript

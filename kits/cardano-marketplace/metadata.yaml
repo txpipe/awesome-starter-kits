@@ -2,6 +2,7 @@ title: Cardano Marketplace
 logo: https://demeter.run/assets/logos/typescript.png
 description: A simple Cardano Marketplace facilitating NFT buy and sale.
 repository: https://github.com/dQuadrant/cardano-marketplace
+type: workspace
 features:
 settings:
   template: plutus

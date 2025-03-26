@@ -76,6 +76,7 @@ title: Name
 logo: URL for your starter-kit logo
 description: A NodeJS package that provides several examples of how to leverage Ogmios typescript client to execute local-state-queries, chain-sync and tx-monitoring operations against a node.
 repository: https://github.com/cardanosolutions/ogmios-client-starter-kit.git
+type: workspace
 features:
   - ogmios
 settings:
@@ -86,7 +87,7 @@ author:
   logo: https://demeter.run/assets/logos/txpipe.svg
 social:
   twitter: txpipe_tools
-  discord: ZTHcHUy5HY
+  discord: eVc6HJrYmP
 ```
 
 #### Fields
@@ -164,7 +165,7 @@ Once the pull-request is merged your starter kit will be automatically available
 
 If you have questions join our discord server
 
-[![Join our Discord server!](https://invidget.switchblade.xyz/ZTHcHUy5HY)](http://discord.gg/ZTHcHUy5HY)
+[![Join our Discord server!](https://invidget.switchblade.xyz/eVc6HJrYmP)](http://discord.gg/eVc6HJrYmP)
 
 ## License
 

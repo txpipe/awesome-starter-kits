@@ -2,6 +2,7 @@ title: Starter Next.js TypeScript
 logo: https://meshjs.dev/templates/nextjs.png
 description: Start a new project on Next.js. This starter template consists of a connect wallet button and wallet integration.
 repository: https://github.com/MeshJS/starter-next-ts-template.git
+type: workspace
 features:
 settings:
   template: typescript

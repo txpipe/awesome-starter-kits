@@ -2,6 +2,7 @@ title: gOuroboros
 logo: https://blinklabs.io/media/gOuroboros-illustration.png
 description: A tutorial that shows you how to use the gOuroboros to communicate with a Cardano Node.
 repository: https://github.com/blinklabs-io/gouroboros-starter-kit.git
+type: workspace
 features:
   - nodes
 settings:

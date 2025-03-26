@@ -2,6 +2,7 @@ title: Haskell Hello World
 logo: https://demeter.run/assets/logos/haskell.png
 description: An empty Haskell project ready to code with all required dependencies already installed and all of the recommended VS Code extensions available by default.. It contains some very basic code with a 'hello world' example.
 repository: https://github.com/srid/haskell-template.git
+type: workspace
 features:
 settings:
   template: haskell
@@ -12,4 +13,4 @@ author:
   logo: https://demeter.run/assets/logos/txpipe.svg
 social:
   twitter: txpipe_tools
-  discord: ZTHcHUy5HY
+  discord: eVc6HJrYmP

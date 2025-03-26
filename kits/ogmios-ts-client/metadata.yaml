@@ -2,6 +2,7 @@ title: Ogmios TypeScript Client
 logo: https://demeter.run/assets/logos/typescript.png
 description: A Demeter starter kit that shows how to use Ogmios' Typescript client.
 repository: https://github.com/cardanosolutions/ogmios-ts-client-starter-kit.git
+type: workspace
 features:
   - ogmios
 settings:

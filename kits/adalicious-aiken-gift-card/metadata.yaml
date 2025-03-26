@@ -2,6 +2,7 @@ title: Aiken Gift Card
 logo: https://i.ibb.co/qJLRL4H/aiken.png
 description: This is an example of a gift card. With these contracts you can lock anything and have it be unlockable only with a simultaneously minted NFT. This minted NFT holds the power to unlock the assets and is considered the gift card.
 repository: https://github.com/adalicious/aiken-gift-card
+type: workspace
 features:
 settings:
   template: aiken
@@ -12,4 +13,4 @@ author:
   logo: https://i.ibb.co/8jB8mYc/adalicious-png.png
 social:
   twitter: txpipe_tools
-  discord: ZTHcHUy5HY
+  discord: eVc6HJrYmP
