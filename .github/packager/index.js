@@ -25,6 +25,15 @@ fs.readdir(
         console.log(`error copying readme file: ${err}`);
       }
 
+      // If the kit is a worker, copy the worker.wasm file to the output directory with the kit name
+      if (metadata.type === 'worker') {
+        try {
+          fs.copyFileSync(`${KITS_DIR}/${d}/worker.wasm`, `${OUTPUT_DIR}/${d}.wasm`);
+        } catch (err) {
+          console.log(`error copying worker file: ${err}`);
+        }
+      }
+
       result.push({ key: d, ...metadata });
     });
 
