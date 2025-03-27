@@ -1,0 +1,17 @@
+title: Worker Example
+logo: https://txpipe.io/images/txpipe.svg
+description: A simple worker example that includes a say-hello method.
+repository: https://github.com/txpipe/awesome-starter-kits
+type: worker
+features:
+  - worker
+wasm: https://github.com/txpipe/awesome-starter-kits/releases/latest/download/worker-example.wasm
+config:
+  custom_hello: Hi
+author:
+  name: TxPipe
+  website: https://txpipe.io
+  logo: https://txpipe.io/images/txpipe.svg
+social:
+  twitter: txpipe_tools
+  discord: eVc6HJrYmP
