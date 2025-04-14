@@ -1,0 +1,13 @@
+title: Ultimate Cardano Smart Contracts
+logo: https://avatars.githubusercontent.com/u/150326119
+description: A workspace for building and running Cardano smart contracts examples from the book "Ultimate Cardano Smart Contracts"
+repository: https://github.com/ava-orange-education/Ultimate-Cardano-Smart-Contracts
+features:
+  - nodes
+  - workspaces
+settings:
+  template: typescript
+  size: small
+author:
+  name: Lawrence Ley
+  logo: https://avatars.githubusercontent.com/u/7105016
